@@ -1,0 +1,41 @@
+body{
+background-image:url(img/showcase.jpg);
+}
+
+h1{
+background-color: yellow;
+color: blue;
+text-align: center;
+}
+
+h2{
+background-color: lightgray ;
+color: black;
+text-align: center;
+}
+
+p{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.del{
+background-color: lightgray;
+color: black;
+text-align: left;
+}
+
+.bild{
+
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.roboto {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
